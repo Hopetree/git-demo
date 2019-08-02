@@ -99,6 +99,6 @@ ENV/
 ############### 忽略主目录下面的static，但是其他目录下面的static不能忽略 #################
 /static/
 ############### 忽略media下面除了default.txt以外的其他文件
-/media/
+/media/*
 !/media/default.txt
 
